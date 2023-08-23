@@ -55,6 +55,11 @@ sudo dnf install qt5-qttools-devel qt5-qttools-static qt5-qtx11extras-devel kf5-
 ``` shell
 sudo zypper install git cmake gcc-c++ extra-cmake-modules libqt5-qttools-devel libqt5-qtx11extras-devel kconfigwidgets-devel kcrash-devel kguiaddons-devel kglobalaccel-devel kio-devel ki18n-devel knotifications-devel kinit-devel kwin5-devel libQt5Gui-devel libQt5OpenGL-devel libepoxy-devel
 ```
+- tips
+``` shell
+if you use opensuse, maybe add `iconthemes-devel`
+
+```
 
 #### Step 2: Then compile and install
 - Install from script:
