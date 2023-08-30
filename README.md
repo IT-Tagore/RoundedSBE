@@ -57,7 +57,7 @@ sudo zypper install git cmake gcc-c++ extra-cmake-modules libqt5-qttools-devel l
 ```
 - tips
 ``` shell
-if you use opensuse, maybe add `iconthemes-devel`
+if you use opensuse, maybe add `kiconthemes-devel`
 
 ```
 
